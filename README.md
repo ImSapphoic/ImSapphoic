@@ -2,7 +2,7 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/ImSapphoic?color=1DA1F2&label=Followers&logo=x&style=for-the-badge)](https://twitter.com/ImSapphoic)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCKZ2uOgINNv4PwzFYCwOSZQ?label=Subscribers&style=for-the-badge&logo=youtube&color=red)](https://www.youtube.com/@ImSapphoic?sub_confirmation=1)
-[![GitHub](https://img.shields.io/github/followers/imsapphoic?logo=github&style=for-the-badge&labelColor=gray)](https://github.com/imsapphoic?tab=followers)
+[![GitHub](https://img.shields.io/github/followers/imsapphoic?logo=github&style=for-the-badge&color=black)](https://github.com/imsapphoic?tab=followers)
 
 <!--
 **ImSapphoic/ImSapphoic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
