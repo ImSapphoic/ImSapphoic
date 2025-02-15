@@ -1,7 +1,8 @@
 ![ImSapphoic's github stats](https://github-readme-stats.vercel.app/api?username=ImSapphoic&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
-[![Twitter](https://img.shields.io/twitter/follow/imsapphoic?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/ImSapphoic)
-[![GitHub](https://img.shields.io/github/followers/imsapphoic?logo=github&style=plastic)](https://github.com/imsapphoic?tab=followers)
+[![Twitter](https://img.shields.io/twitter/Follow/imsapphoic?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/ImSapphoic)
+[![Youtube](https://img.shields.io/youtube/Subscribe/imsapphoic?style=plastic&logo=x&labelColor=595959&color=595959)](https://www.youtube.com/@ImSapphoic)
+[![GitHub](https://img.shields.io/github/Followers/imsapphoic?logo=github&style=plastic)](https://github.com/imsapphoic?tab=followers)
 
 <!--
 **ImSapphoic/ImSapphoic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
