@@ -1,5 +1,5 @@
 ![ImSapphoic's github stats](https://github-readme-stats.vercel.app/api?username=ImSapphoic&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ImSapphoic)
+![ImSapphoic's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imsapphoic&cache_seconds=1800)
 
 <!--
 **ImSapphoic/ImSapphoic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
